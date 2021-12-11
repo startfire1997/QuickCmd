@@ -1,0 +1,5 @@
+{
+    "reboot": "adb reboot",
+    "shutdown": "adb reboot -p",
+    "fastboot": "adb reboot fastboot"
+}
